@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Shopperrai/Shopperrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<header>
+<h1>Shopperai<h1/>
+  <p>
+    About section will be writen here 
+    <ul>
+      <li>
+        some features will be updated 
+      </li>
+  </ul>
+  </p>
+  </header>
+<section>
+  <video autoplay style="width: 100vw; height: 100vh;" src="https://user-images.githubusercontent.com/132160402/235320230-712ba2ec-252a-4cda-b7b6-e3ff4dcf8d20.mp4
+"/>
+</section>
+  
